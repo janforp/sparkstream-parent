@@ -10,9 +10,18 @@ sparkstream+kafka实时流处理
 
 
 1.本地启动zookeeper
+
+
 2.本地启动kafka
+
+
 3.运行KafkaDataProducer
+
+
 4.运行KafkaDataConsumer
 
+
 运行结果：
+
+
 在消费者的控制台会看到打印出来的数据
